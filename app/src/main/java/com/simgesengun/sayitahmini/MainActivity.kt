@@ -19,8 +19,9 @@ class MainActivity : AppCompatActivity() {
         var points = 100
         val random = (1..100).random()
 
-        //Logs the random number for testing purposes
+        /*Logs the random number for testing purposes
         Log.e("Random",random.toString())
+        */
 
         //remove the error when the text is changed
         binding.editTextNumber.doOnTextChanged { _, _, _, _ ->
