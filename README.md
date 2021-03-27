@@ -13,5 +13,7 @@
 ## Screenshots
 
 ### Light and Night Modes
+![Themes](screenshots/screen_light.png) ![Themes](screenshots/screen_night.png)
 
 ### Languages
+![Languages](screenshots/screen_en.png) ![Languages](screenshots/screen_tr.png)
