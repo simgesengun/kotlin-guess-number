@@ -1,13 +1,17 @@
-#Table of Contents
-[TOC]
+# Table of Contents
+- [Features](#features)
+- [Screenshots](#screenshots)
+  - [Light and Night Modes](#light-and-night-modes)
+  - [Languages](#languages)
+
 
 ## Features
 
 - Night Mode
 - Languages: English and Turkish
 
-##Screenshots
+## Screenshots
 
-###Light and Night Modes
+### Light and Night Modes
 
-###Languages
+### Languages
