@@ -6,7 +6,7 @@
     <string name="background_image">Background Image</string>
     <string name="your_guess">Your Guess</string>
     <string name="score_initial">Your score:</string>
-    <string name="info">Please enter a number</string>
+    <string name="info">Please Enter a Number</string>
     <string name="info_bigger">Please Enter a Bigger Number</string>
     <string name="info_smaller">Please Enter a Smaller Number</string>
     <string name="info_win">You Win! Your score: %1$d</string>

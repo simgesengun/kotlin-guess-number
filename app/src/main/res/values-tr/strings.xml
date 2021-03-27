@@ -7,7 +7,7 @@
     <string name="background_image">Arkaplan Resmi</string>
     <string name="your_guess">Tahmininiz</string>
     <string name="score_initial">Skorunuz:</string>
-    <string name="info">Lütfen bir sayı giriniz</string>
+    <string name="info">Lütfen Bir Sayı Giriniz</string>
     <string name="info_bigger">Lütfen Daha Büyük Bir Sayı Giriniz</string>
     <string name="info_smaller">Lütfen Daha Küçük Bir Sayı Giriniz</string>
     <string name="info_win">Kazandınız! Skorunuz: %1$d</string>
