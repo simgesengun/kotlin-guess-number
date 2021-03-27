@@ -1,4 +1,6 @@
-# Table of Contents
+# Guess Number Game
+
+## Table of Contents
 - [Features](#features)
 - [Screenshots](#screenshots)
   - [Light and Night Modes](#light-and-night-modes)
