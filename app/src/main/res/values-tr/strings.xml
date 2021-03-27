@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sayı Tahmini</string>
+    <string name="game_name">Sayı Tahmin Oyunu</string>
+    <string name="guess">Tahmin Et</string>
+    <string name="icon">ikon</string>
+    <string name="background_image">Arkaplan Resmi</string>
+    <string name="your_guess">Tahmininiz</string>
+    <string name="score_initial">Skorunuz:</string>
+    <string name="info">Lütfen bir sayı giriniz</string>
+    <string name="info_bigger">Lütfen Daha Büyük Bir Sayı Giriniz</string>
+    <string name="info_smaller">Lütfen Daha Küçük Bir Sayı Giriniz</string>
+    <string name="info_win">Kazandınız! Skorunuz: %1$d</string>
+    <string name="info_lose">Kaybettiniz!</string>
+    <string name="error">Sayı boş olamaz!</string>
+    <string name="score_updated">Skorunuz: %1$d</string>
+    <string name="new_game">Yeni Oyun</string>
+    <string name="guess_initial">En Son Tahmininiz:</string>
+    <string name="guess_updated">" En Son Tahmininiz: %1$d"</string>
+</resources>

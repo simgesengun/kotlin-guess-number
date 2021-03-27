@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Guess Number</string>
+    <string name="game_name">Guess Number Game</string>
+    <string name="guess">Guess</string>
+    <string name="icon">icon</string>
+    <string name="background_image">Background Image</string>
+    <string name="your_guess">Your Guess</string>
+    <string name="score_initial">Your score:</string>
+    <string name="info">Please enter a number</string>
+    <string name="info_bigger">Please Enter a Bigger Number</string>
+    <string name="info_smaller">Please Enter a Smaller Number</string>
+    <string name="info_win">You Win! Your score: %1$d</string>
+    <string name="info_lose">You lose!</string>
+    <string name="error">Number cannot be empty!</string>
+    <string name="score_updated">Your score: %1$d</string>
+    <string name="new_game">New Game</string>
+    <string name="guess_initial">Your Last Guess:</string>
+    <string name="guess_updated">Your Last Guess: %1$d</string>
+</resources>
