@@ -1,14 +1,11 @@
-package com.simgesengun.sayitahmini
+package com.simgesengun.guessnumber
 
-import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.util.Log
-import android.widget.PopupMenu
-import android.widget.PopupWindow
 import androidx.core.view.isVisible
 import androidx.core.widget.doOnTextChanged
-import com.simgesengun.sayitahmini.databinding.ActivityMainBinding
+import com.simgesengun.guessnumber.R
+import com.simgesengun.guessnumber.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding

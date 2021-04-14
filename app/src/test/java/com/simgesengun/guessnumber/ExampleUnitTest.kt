@@ -1,4 +1,4 @@
-package com.simgesengun.sayitahmini
+package com.simgesengun.guessnumber
 
 import org.junit.Test
 
